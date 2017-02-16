@@ -1,0 +1,22 @@
+{
+  "name": "application-base-react",
+  "version": "1.0.0",
+  "description": "A base NPM include to get you started",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foyerlive/application-base-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foyerlive/application-base-react/issues"
+  },
+  "homepage": "https://github.com/foyerlive/application-base-react#readme",
+  "dependencies": {
+    "fl-cli": "github:foyerlive/fl-cli"
+  }
+}
