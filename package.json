@@ -1,6 +1,6 @@
 {
   "name": "application-base-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A base NPM include to get you started",
   "main": "src/index.js",
   "scripts": {
