@@ -18,6 +18,7 @@
   "homepage": "https://github.com/foyerlive/application-base-react#readme",
   "dependencies": {
     "babel-preset-react": "^6.23.0",
+    "babel-preset-react-hmre": "^1.1.1",
     "fl-cli": "github:foyerlive/fl-cli",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
