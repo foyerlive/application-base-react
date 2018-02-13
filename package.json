@@ -22,9 +22,8 @@
     "classnames": "^2.2.5",
     "fl-cli": "github:foyerlive/fl-cli",
     "prop-types": "^15.6.0",
-    "react": "^15.6.2",
-    "react-addons-css-transition-group": "^15.6.2",
-    "react-dom": "^15.6.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
     "redbox-react": "^1.5.0"
   }
 }
