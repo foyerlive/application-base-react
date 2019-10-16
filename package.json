@@ -19,11 +19,11 @@
   "dependencies": {
     "babel-preset-react": "^6.24.1",
     "babel-preset-react-hmre": "^1.1.1",
-    "classnames": "^2.2.5",
+    "classnames": "^2.2.6",
     "fl-cli": "github:foyerlive/fl-cli",
-    "prop-types": "^15.6.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "redbox-react": "^1.5.0"
+    "prop-types": "^15.7.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "redbox-react": "^1.6.0"
   }
 }
