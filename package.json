@@ -18,7 +18,7 @@
   "homepage": "https://github.com/foyerlive/application-base-react#readme",
   "dependencies": {
     "classnames": "^2.2.6",
-    "fl-cli": "github:foyerlive/fl-cli#es-v1.0.0",
+    "fl-cli": "github:foyerlive/fl-cli#es-v1.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
